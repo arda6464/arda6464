@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Selam, ben Arda Sürücü!
 
-<!--
-**arda6464/arda6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Oyun geliştiricisi**, **robotik meraklısı** ve **teknoloji tutkunu** bir yazılım geliştiricisiyim.  
+Kod yazmayı, sistemler kurmayı ve kendi fikirlerimi gerçeğe dönüştürmeyi seviyorum.  
+Kendi projelerimle hem öğreniyor hem de sınırlarımı zorluyorum. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Hakkımda
+- 🎮 **Unity** ve **C#** ile oyunlar geliştiriyorum  
+- ⚙️ **Arduino** ve robotik sistemlerle ilgileniyorum  
+- 🌍 Kendi sunucularım ve özel projelerim üzerinde çalışıyorum  
+- 🧩 Sürekli yeni teknolojiler keşfetmeyi seviyorum  
+
+---
+
+### 🔧 Kullandığım Teknolojiler
+💬 Diller: `C#` · `Python` · `C++` · `HTML` · `CSS`  
+🛠️ Araçlar: `Unity` · `VS Code` · `Git` · `Arduino IDE`  
+🎨 İlgi Alanı: Oyun sistemleri, yapay zekâ, sunucu altyapısı, robotik  
+
+---
+
+### 📊 GitHub İstatistiklerim
+![Arda'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=arda-sürücü&show_icons=true&theme=tokyonight)  
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-sürücü&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Sosyal Medya
+💬 Discord: [Kullanıcı adını buraya yaz]  
+📸 Instagram: [Kullanıcı adını buraya yaz]  
+📂 Projelerimin çoğunu burada bulabilirsin — daha fazlası yolda 👇  
+
+⭐ **Projelerime göz at, istersen bir yıldız bırak!**
+
+---
+
+> “Gerçek ilerleme, denemekten korkmamaktır.”  
+> — Arda Sürücü
