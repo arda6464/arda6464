@@ -1,40 +1,25 @@
-# 👋 Selam, ben Arda Sürücü!
+### Hi there 👋, my name is Arda64
+#### I am Game Developer
+![I am Game Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-💻 **Oyun geliştiricisi**, **robotik meraklısı** ve **teknoloji tutkunu** bir yazılım geliştiricisiyim.  
-Kod yazmayı, sistemler kurmayı ve kendi fikirlerimi gerçeğe dönüştürmeyi seviyorum.  
-Kendi projelerimle hem öğreniyor hem de sınırlarımı zorluyorum. 🚀
-
----
-
-### 🧠 Hakkımda
 - 🎮 **Unity** ve **C#** ile oyunlar geliştiriyorum  
 - ⚙️ **Arduino** ve robotik sistemlerle ilgileniyorum  
 - 🌍 Kendi sunucularım ve özel projelerim üzerinde çalışıyorum  
 - 🧩 Sürekli yeni teknolojiler keşfetmeyi seviyorum  
 
----
 
-### 🔧 Kullandığım Teknolojiler
-💬 Diller: `C#` · `Python` · `C++` · `HTML` · `CSS`  
-🛠️ Araçlar: `Unity` · `VS Code` · `Git` · `Arduino IDE`  
-🎨 İlgi Alanı: Oyun sistemleri, yapay zekâ, sunucu altyapısı, robotik  
+Skills: C# / C++ / JS / HTML / CSS / PYTHON
 
----
+- 🔭 I’m currently working on this page. 
 
-### 📊 GitHub İstatistiklerim
-![Arda'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=arda-sürücü&show_icons=true&theme=tokyonight)  
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-sürücü&layout=compact&theme=tokyonight)
 
----
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arda6464)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arda._src01/)  
 
-### 🌐 Sosyal Medya
-💬 Discord: [Kullanıcı adını buraya yaz]  
-📸 Instagram: [Kullanıcı adını buraya yaz]  
-📂 Projelerimin çoğunu burada bulabilirsin — daha fazlası yolda 👇  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arda6464)](https://github.com/anuraghazra/github-readme-stats)
 
-⭐ **Projelerime göz at, istersen bir yıldız bırak!**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arda6464&show_icons=true)  
 
----
+![GitHub metrics](https://metrics.lecoq.io/arda6464)  
 
-> “Gerçek ilerleme, denemekten korkmamaktır.”  
-> — Arda Sürücü
+![GitHub streak stats](https://streak-stats.demolab.com/?user=arda6464)  
+
